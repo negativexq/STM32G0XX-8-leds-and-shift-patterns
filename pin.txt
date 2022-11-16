@@ -1,0 +1,9 @@
+led 1 - D3
+led 2 - D7
+led 3 - D12
+led 4 - D11
+led 5 - D1
+led 6 - D0
+led 7 - D10
+led 8 - A6
+Button - 5V - D6
